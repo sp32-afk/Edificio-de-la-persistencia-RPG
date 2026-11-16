@@ -1,4 +1,4 @@
-# **Sesión 1 (15/11/2026):** 
+# **Sesión 1 (15/11/2026):**
 
 
 
@@ -26,7 +26,7 @@ Un mismo personaje vive distinto en cada motor. En MariaDB está repartido en do
 
 
 
-##### MariaDB\_SQL
+##### db/consultas\_repositorio.sql - MariaDB\_SQL
 
 
 
@@ -64,7 +64,7 @@ Pulsa Copiar bloque y pégalo en db/consultas\_repositorio.sql, entre las marcas
 
 
 
-##### MongoDB\_JS
+##### db/consultas\_repositorio.js - MongoDB\_JS
 
 
 
@@ -130,7 +130,7 @@ En MariaDB el inventario es una tabla intermedia N:M: guarda pares (personaje, �
 
 
 
-##### MariaDB\_SQL
+##### db/consultas\_repositorio.sql - MariaDB\_SQL
 
 
 
@@ -168,7 +168,7 @@ Pulsa Copiar bloque y pégalo en db/consultas\_repositorio.sql, entre las marcas
 
 
 
-##### MongoDB\_JS
+##### db/consultas\_repositorio.js - MongoDB\_JS
 
 
 
@@ -234,7 +234,7 @@ La tabla combate apunta a personaje con tres llaves foráneas y sin ON DELETE CA
 
 
 
-##### MariaDB\_SQL
+##### db/consultas\_repositorio.sql - MariaDB\_SQL
 
 
 
@@ -276,7 +276,7 @@ Pulsa Copiar bloque y pégalo en db/consultas\_repositorio.sql, entre las marcas
 
 
 
-##### MongoDB\_JS
+##### db/consultas\_repositorio.js - MongoDB\_JS
 
 
 
@@ -352,7 +352,7 @@ Antes de conectar la app hay que ajustar los datos de la nivelación. En MariaDB
 
 
 
-##### MariaDB\_SQL
+##### db/alter\_persistencia.sql - MariaDB\_SQL
 
 
 
@@ -398,7 +398,7 @@ Pulsa Copiar bloque y pégalo en db/alter\_persistencia.sql, entre las marcas >>
 
 
 
-##### MongoDB\_JS
+##### db/mongo\_persistencia.js - MongoDB\_JS
 
 
 
@@ -446,13 +446,9 @@ MariaDB vs MongoDB. En SQL se cambia la estructura de la tabla con ALTER TABLE y
 
 \---------------------------------------------------------------------------------------------------
 
+
+
 ###### Para tu trabajo escrito
 
 ¿Por qué en MariaDB hubo que hacer ALTER TABLE para guardar el mana, mientras que en MongoDB los Magos ya lo tenían?
-
-
-
-====================================================================================================
-
-
 

@@ -2,7 +2,7 @@
 
 
 
-## Código de guardado:
+* ## Código de guardado:
 
 &#x20;
 
@@ -14,7 +14,7 @@ EP2.eyJ2IjoyLCJ3IjoiU2VyZ2lvIFBhc3RyYW5hIDIwMjUyNTc4MDg2IiwiZyI6IjMwMiIsInMiOiIy
 
 
 
-### Piso 1 - Modelo - Sala 1.1 - Personaje: la clase base
+* ### Piso 1 - Modelo - Sala 1.1 - Personaje: la clase base
 
 
 
@@ -138,7 +138,7 @@ Java vs Python. Java declara Personaje como abstract y obliga a cada subclase a 
 
 
 
-### Piso 1 - Modelo - Sala 1.2 - Mago y Arquero: herencia
+* ### Piso 1 - Modelo - Sala 1.2 - Mago y Arquero: herencia
 
 
 
@@ -272,7 +272,7 @@ Java vs Python. En Java la primera línea del constructor de la subclase debe se
 
 
 
-### Piso 1 - Modelo - Sala 1.3 - La fábrica de personajes
+* ### Piso 1 - Modelo - Sala 1.3 - La fábrica de personajes
 
 
 
@@ -420,7 +420,7 @@ Java vs Python. Java usa switch con case y lanza IllegalArgumentException si la 
 
 
 
-### Piso 1 - Modelo - Sala 1.4 - Item: el ítem del inventario
+* ### Piso 1 - Modelo - Sala 1.4 - Item: el ítem del inventario
 
 
 
